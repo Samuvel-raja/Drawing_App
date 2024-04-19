@@ -1,0 +1,8 @@
+video link:https://youtu.be/U2R1SojkAYo
+
+.box
+{
+cursor:url('img.png'),pointer;
+} 
+
+note:Using image with size 32x32 px
